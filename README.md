@@ -2,4 +2,6 @@
 
 
 I am passionate about Data Science, Analytics and Jogging. Eager to learn, develop new skills and run in marathons.<br/>
-🏃 Currently working on: 
+🏃🏃 Currently working on: 
+- breaking 3:40 in marathon
+- stepping into the first DL project
